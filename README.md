@@ -1,4 +1,16 @@
 # Lightning Strikes Data Analysis
+## Table of Contents
+- [Overview](#overview)
+- [Objectives](#objectives)
+- [Dataset](#dataset)
+- [Key Steps in the Analysis](#key-steps-in-the-analysis)
+  - [1. Data Cleaning](#1-data-cleaning)
+  - [2. Outlier Detection](#2-outlier-detection)
+  - [3. Detailed Exploration of Outliers](#3-detailed-exploration-of-outliers)
+  - [4. Label Encoding](#4-label-encoding)
+- [Results](#results)
+- [Skills Demonstrated](#skills-demonstrated)
+
 ## Overview
 
 This project is part of the Google Advanced Data Analytics course on Coursera. It explores a dataset of lightning strikes through exploratory data analysis (EDA). The work focuses on detecting outliers, handling missing values, and applying encoding techniques to prepare the data for analysis and visualisation.
